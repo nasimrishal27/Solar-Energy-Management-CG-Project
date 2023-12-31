@@ -21,7 +21,7 @@ To build and run the project, follow these steps:
 
 ## Compilation 
 
-```gcc ship5.c -o SEM -lGL -lglut -lGLU -lm```
+```gcc SEM.c -o SEM -lGL -lglut -lGLU -lm```
 
 ## Run
 
