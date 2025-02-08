@@ -16,7 +16,7 @@ Install required libraries and dependencies accordingly
 
 To build and run the project, follow these steps:
 
-1. Clone this repository: `git clone https://github.com/Rishu24748/Solar-Energy-Management-CG-Project.git`
+1. Clone this repository: `git clone https://github.com/nasimrishal27/Solar-Energy-Management-CG-Project.git`
 2. Navigate to the project directory: `cd Solar-Energy-Management-CG-Project`
 
 ## Compilation 
